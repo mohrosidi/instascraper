@@ -1,6 +1,6 @@
 <img src="hex-instascraper.png" align="right" width="100" height="100">
 
-instascraper
+Instascraper
 ==============
 
 <!-- badges: start -->
