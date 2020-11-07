@@ -1,0 +1,26 @@
+Package: instascraper
+Type: Package
+Title: Helper Packages for Instagram-Scraper
+Version: 0.1.0
+Authors@R: 
+    person(given = "Moh.",
+           family = "Rosidi",
+           role = c("aut", "cre"),
+           email = "moh.rosidi2610@gmail.com")
+Description: Helper packages to access specific functionality from instagram scraper project (See: https://github.com/arc298/instagram-scraper). This packages comes with 4 main functionality, eg: get post comments, get media metadata, get user profile informations, and search location id based one location name.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    purrr,
+    jsonlite,
+    dplyr,
+    tidyr,
+    rlang,
+    janitor,
+    fs,
+    stringr,
+    tibble,
+    reticulate
