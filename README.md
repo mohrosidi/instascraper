@@ -17,6 +17,11 @@ You can install the released version of instascraper from [Github](https://githu
 devtools::install_github("mohrosidi/instascraper")
 ```
 
+``` r
+# run this if instagram-scraper is not installed in your system
+instascraper_install()
+```
+
 Example
 ---------------
 
